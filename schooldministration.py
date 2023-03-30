@@ -1,4 +1,3 @@
-#basic school administation
 import csv
 
 def write_into_csv(info_list):
